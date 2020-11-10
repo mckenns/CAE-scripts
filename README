@@ -1,1 +1,5 @@
 Read Me file for CAE-scripts
+Uploaded from my laptop 11/10/2020 S.McKenna
+Mostly these are scripts that run on whqlx20, whqlx40, punlx07, or fralx07
+for the CAE Engineers to submit jobs to the LSF Clusters (WHQ, PBO, or EHQ), 
+when they don't use the CAE Web pages at whqlx36,punlx36, or fralx36.
